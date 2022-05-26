@@ -4,6 +4,7 @@
     --grey-line: #a1a1a1;
     --light-grey: #D8D8D8;
     --dark-blue-background: #05323a;
+    --dark-blue-title: #057a8f;
     --font: 'Hind', sans-serif;
 }
 
@@ -126,6 +127,7 @@ a {
     }
 
     &__name {
+        color: var(--dark-blue-title);
         font-size: 25px;
         font-weight: 600;
         text-transform: uppercase;
@@ -213,6 +215,7 @@ a {
 
 .skills {
     &__title {
+        color: var(--dark-blue-title);
         font-size: 25px;
         font-weight: 600;
         text-transform: uppercase;
@@ -299,6 +302,7 @@ a {
 /* INTERESTS 
 ============================== */
 .interests__title {
+    color: var(--dark-blue-title);
     font-size: 25px;
     font-weight: 600;
     text-transform: uppercase;
