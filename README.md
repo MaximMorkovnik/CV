@@ -1,4 +1,4 @@
-[**<h3>CV --><h3>**](https://maximmorkovnik.github.io/CV/)
+<https://maximmorkovnik.github.io/CV/>
   
 <h1>CV (Curriculum vitae)</h1>
   
