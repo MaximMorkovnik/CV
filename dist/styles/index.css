@@ -195,6 +195,8 @@ a {
     width: 55%; }
   .skills__name--java::before {
     width: 55%; }
+  .skills__name--typeScript::before {
+    width: 35%; }
   .skills__name--bootstrap::before {
     width: 70%; }
   .skills__name--flex::before {
@@ -204,7 +206,9 @@ a {
   .skills__name--webpack::before {
     width: 50%; }
   .skills__name--npm::before {
-    width: 60%; }
+    width: 70%; }
+  .skills__name--angular::before {
+    width: 55%; }
   .skills__name--react::before {
     width: 25%; }
   .skills__name--en::before {

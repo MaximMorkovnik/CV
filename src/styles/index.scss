@@ -255,6 +255,10 @@ a {
             width: 55%;
         }
 
+        &--typeScript::before {
+            width: 35%;
+        }
+
         &--bootstrap::before {
             width: 70%;
         }
@@ -272,7 +276,11 @@ a {
         }
 
         &--npm::before {
-            width: 60%;
+            width: 70%;
+        }
+
+        &--angular::before {
+            width: 55%;
         }
 
         &--react::before {
